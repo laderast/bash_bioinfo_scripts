@@ -1,0 +1,12 @@
+
+name: minimal-dxpy
+channels:
+  - conda-forge
+dependencies:
+  - nano
+  - git
+  - jq
+  - python
+  - pip
+  - pip:
+    - dxpy
